@@ -277,7 +277,7 @@ footer {
     align-items: center;
     background: #90d4c5;
     color: #458c7e;
-    height: 45vh;
+    min-height: 45vh;
     padding: 2rem 0;
 }
 
