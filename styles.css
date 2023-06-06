@@ -419,6 +419,7 @@ footer a:hover {
     }
 
     footer {
+        min-height: 45vh;
         padding: 2rem 0;
     }
 
